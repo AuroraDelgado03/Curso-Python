@@ -57,6 +57,3 @@ Incluye:
 - Consultar notas anteriores  
 
 ---
-
-
-python nombre_del_archivo.py
